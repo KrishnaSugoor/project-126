@@ -1,0 +1,37 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+
+}
+body{
+    background-size: cover;
+    
+}
+.divspeed{
+    float:left;
+
+}
+.divvolume{
+    float:right;
+}
+.speedimage{
+    width: 200px;
+    border-radius: 100px;
+}
+.volumeimage{
+    width: 200px;
+    border-radius: 100px;
+}
+#speed{
+    font-size: 25px;
+    margin: 15px;
+}
+#volume{
+    font-size: 25px;
+    margin: 15px;
+}
+.playbutton{
+    width: 130px;
+    font-size: 25px;
+}
